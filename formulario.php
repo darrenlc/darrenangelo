@@ -6,7 +6,7 @@
                      "Dinamarca", "España",   "Francia",];
 
     $nom_regex     = "/^[a-zA-Z\s]+$/";
-    $email_regex   = "/[\w._]+@[\w.]+\.[a-zA-Z]{2,4}/";
+    $email_regex   = "/[\w._]+@[\w]+\.[a-zA-Z]{2,4}/";
     $edad_regex    = "/^[\d]+$/";
 
     $test = '';
