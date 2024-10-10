@@ -80,7 +80,7 @@
         
         
 
-        <label for="pais">Filtrar por género:</label>
+        <label for="pais">País:</label>
         <select name="pais" id="pais">
             <?php
                 foreach($lista_paises as $pais){
